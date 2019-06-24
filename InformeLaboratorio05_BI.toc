@@ -1,0 +1,5 @@
+\babel@toc {spanish}{}
+\contentsline {section}{\numberline {1}IMPORTACION, DATA FLOW, TRASLADO DE ARCHIVOS}{1}
+\contentsline {section}{\numberline {2}PRESENTACION DEL ESPACIO DE TRABAJO}{6}
+\contentsline {section}{\numberline {3}Cargar datos de Clientes en la Tabla Customer de BD Adventure Work}{12}
+\contentsline {section}{\numberline {4}TRABAJO ENCARGADO}{14}
